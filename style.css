@@ -160,6 +160,14 @@ footer p {
     align-items: center;
   }
 
+  form input,
+  form select {
+    display: flex;    
+  margin-bottom: 20px;
+  width: 180px;
+}
+  }
+
   .group {
     display: flex;
     flex-direction: row;
