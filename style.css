@@ -112,7 +112,7 @@ form select,
 form input {
   display: flex;    
   margin-bottom: 20px;
-  width: 180px;
+  width: 120px;
 }
 
 form button {
@@ -163,7 +163,7 @@ footer p {
   .group {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
   }
 
   .item-double {
