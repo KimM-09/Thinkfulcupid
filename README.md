@@ -4,6 +4,10 @@ ThinkfulCupid is an online dating and matchmaking website that allows people to 
 
 For this assignment, you will implement ThinkfulCupid's landing page in HTML & CSS.
 
+## Live Demo:
+
+https://kimm-09.github.io/Thinkfulcupid/
+
 ## Thinkfulbnb views
 
 The UX designer provided you with the following user interface mockups:
